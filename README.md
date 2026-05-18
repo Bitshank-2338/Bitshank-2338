@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="banner.png" alt="Shashank Kumar Singh — AI Developer · Full Stack Developer · Open Source Enthusiast" width="100%" />
+</div>div>
+
 # Hi, I'm Shashank Kumar Singh 👋
 
 <div align="center">
