@@ -4,6 +4,7 @@
 
 <div align="center">
   <a href="mailto:iamshashankthedev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iamshashankthedev%40gmail.com-ff4fd8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bitshank-2338.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20Site-5EE7FF?style=for-the-badge&logo=githubpages&logoColor=030609" /></a>
   <a href="https://clicky.foo/links"><img alt="Links" src="https://img.shields.io/badge/Links-clicky.foo%2Flinks-5ee7ff?style=for-the-badge&logo=linktree&logoColor=030609" /></a>
   <a href="https://clicky.foo"><img alt="Featured project" src="https://img.shields.io/badge/Featured_Project-clicky.foo-ff7a18?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shashank-singh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shashank_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +29,7 @@
 [OK] offline-vlm-core ............ armed
 [OK] local-agent-runtime ......... private
 [OK] cyberpunk-ui-layer .......... glowing
+[OK] portfolio-site .............. https://bitshank-2338.github.io/portfolio/
 [OK] product-radar ............... clicky.foo detected
 [OK] contact-channel ............. iamshashankthedev@gmail.com
 
@@ -119,8 +121,12 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
       <p><code>Python</code> <code>HTML</code> <code>Database</code> <code>Retail Ops</code></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Bitshank-2338/portfolio">Futuristic Portfolio Site</a></h3>
+      <h3><a href="https://bitshank-2338.github.io/portfolio/">Futuristic Portfolio Site</a></h3>
       <p>Cinematic static portfolio experience with neon UI, terminal storytelling, hover effects, and GitHub Pages deployment.</p>
+      <p>
+        <a href="https://bitshank-2338.github.io/portfolio/">Live site</a> ·
+        <a href="https://github.com/Bitshank-2338/portfolio">Source</a>
+      </p>
       <p><code>HTML</code> <code>CSS</code> <code>Motion UI</code> <code>GitHub Pages</code></p>
     </td>
   </tr>
@@ -148,6 +154,7 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
 
 | Command | Destination |
 |---|---|
+| `open:portfolio-site` | [bitshank-2338.github.io/portfolio](https://bitshank-2338.github.io/portfolio/) |
 | `open:featured-product` | [clicky.foo](https://clicky.foo) |
 | `open:links-hub` | [clicky.foo/links](https://clicky.foo/links) |
 | `inspect:offline-ai` | [Clicky Windows](https://github.com/Bitshank-2338/clicky-windows) |
@@ -179,6 +186,7 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
   ```txt
   /wake ai-orb
   > scanning repositories...
+  > portfolio route online: bitshank-2338.github.io/portfolio
   > highlighting product signal...
   > clicky.foo marked as featured project
   > portfolio mode: cinematic, clean, developer-focused
@@ -207,6 +215,7 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
 ## CONTACT SIGNAL
 
 <p align="center">
+  <a href="https://bitshank-2338.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-bitshank--2338.github.io%2Fportfolio-5EE7FF?style=for-the-badge&logo=githubpages&logoColor=030609" /></a>
   <a href="mailto:iamshashankthedev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iamshashankthedev%40gmail.com-ff4fd8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://clicky.foo/links"><img alt="Links" src="https://img.shields.io/badge/Links-clicky.foo%2Flinks-5ee7ff?style=for-the-badge&logo=linktree&logoColor=030609" /></a>
 </p>
