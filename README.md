@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Shashank Kumar Singh - futuristic AI systems developer" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:030609,18:071018,42:0A84FF,72:FF7A18,100:030609&text=SHASHANK%20KUMAR%20SINGH&fontSize=44&fontColor=EFF8FF&fontAlignY=36&animation=fadeIn&desc=AI%20Systems%20Developer%20%7C%20Offline%20Agents%20%7C%20Future%20Interfaces&descSize=15&descAlignY=57" />
+  <img width="100%" alt="Shashank Kumar Singh - anime-inspired AI developer banner" src="banner.png" />
 </div>
 
 <div align="center">
@@ -35,20 +35,6 @@
 
 mission: build AI systems that are private, fast, useful, and beautifully engineered.
 ```
-
-## HINDI LED TICKER
-
-<p align="center">
-  <img alt="Hindi LED ticker" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Devanagari&weight=700&size=24&duration=2600&pause=650&color=FF7A18&center=true&vCenter=true&width=960&lines=%E0%A4%95%E0%A5%8B%E0%A4%A1+%E0%A4%B8%E0%A5%87+%E0%A4%AD%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%AF+%E0%A4%AC%E0%A4%A8%E0%A4%BE+%E0%A4%B0%E0%A4%B9%E0%A4%BE+%E0%A4%B9%E0%A5%82%E0%A4%81;%E0%A4%95%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%A8%E0%A4%BE+%E0%A4%B8%E0%A5%87+%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3+%E0%A4%A4%E0%A4%95;%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2+%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE+%E0%A4%95%E0%A4%BE+%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81%E0%A4%95%E0%A4%BE%E0%A4%B0;Building+futuristic+experiences" />
-</p>
-
-<p align="center">
-  <code>कोड से भविष्य बना रहा हूँ</code>
-  <code>कल्पना से निर्माण तक</code>
-  <code>डिजिटल दुनिया का वास्तुकार</code>
-</p>
-
----
 
 ## CINEMATIC IDENTITY
 
@@ -222,6 +208,10 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
 
 <p align="center">
   <b>Building future interfaces like an AI engineer from 2035.</b>
+</p>
+
+<p align="center">
+  <img alt="Atithi Devo Bhava" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Devanagari&weight=700&size=24&duration=2600&pause=900&color=FF7A18&center=true&vCenter=true&width=760&lines=%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%A5%E0%A4%BF+%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A5%8B+%E0%A4%AD%E0%A4%B5%E0%A4%83" />
 </p>
 
 <div align="center">
