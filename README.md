@@ -184,8 +184,8 @@ mission: build AI systems that are private, fast, useful, and beautifully engine
 ## GITHUB TELEMETRY
 
 <p align="center">
-  <img height="178" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bitshank-2338&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030609&title_color=5EE7FF&text_color=EFF8FF&icon_color=FF7A18&rank_icon=github" />
-  <img height="178" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bitshank-2338&layout=compact&theme=tokyonight&hide_border=true&bg_color=030609&title_color=5EE7FF&text_color=EFF8FF" />
+  <img height="178" alt="GitHub profile stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bitshank-2338&theme=github_dark" />
+  <img height="178" alt="Repository languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bitshank-2338&theme=github_dark" />
 </p>
 
 <p align="center">
